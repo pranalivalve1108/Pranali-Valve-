@@ -8,11 +8,11 @@
 
 💯 Proficient in Software Development Technologies.
 
-✍️ Currently working on personal projects[GitHub](https://github.com/pranalivalve1108)
+✍️ Currently working on personal projects ([GitHub])(https://github.com/pranalivalve1108)
 
-😎 Fun fact: I love to Calligrapghy[Instagram](https://www.instagram.com/pranaliii_calligraphy?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) & Play games.
+😎 Fun fact: I love to Calligrapghy ([Instagram]) (https://www.instagram.com/pranaliii_calligraphy?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) & Play games.
 
-❤️ Portfolio : [Portfolio](https://pranalii-portfolio.netlify.app)
+❤️ Portfolio : ([Portfolio])(https://pranalii-portfolio.netlify.app)
 
 ⚡ Open to learning and collaborating!
 
