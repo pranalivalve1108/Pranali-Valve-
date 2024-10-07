@@ -1,4 +1,3 @@
-# Pranali-Valve-
 👋 Hi, I’m Pranali Valve
 💻 A computer engineer 2023 graduated.
 🎯 Aspiring Software Developer | Frontend Developer | Backend Developer | Cloud Computing
