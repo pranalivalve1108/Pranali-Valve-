@@ -1,16 +1,16 @@
 👋 Hi, I’m Pranali Valve
 
-💻 A computer engineer 2023 graduated.
+💻 Associate at WNS Global Services 
 
-🎯 Aspiring Software Developer | Frontend Developer | Backend Developer | Cloud Computing
+🎯 Data Analyst | Skilled in SQL, Python, Excel & Power BI | Turning Data into Business Insights and solving real-world problems.
 
-🌏 Passionate about coding and solving real-world problems.
+🌏 Passionate about continuous learning, aim to leverage my analytical and technical skills to solve business problems
 
-💯 Proficient in Software Development Technologies.
+💯 Proficient in Data analysis and Software Development Technologies.
 
 ✍️ Currently working on personal projects ([GitHub](https://github.com/pranalivalve1108))
 
-😎 Fun fact: I love to Calligrapghy ([Facebook](https://www.facebook.com/share/o6jxrFpPdJbqmTPZ/)) | ([Instagram](https://www.instagram.com/pranaliii_calligraphy?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)) & Play games.
+😎 Fun fact: Play indoor games.
 
 ❤️ Portfolio : ([Portfolio](https://pranalii-portfolio.netlify.app))
 
